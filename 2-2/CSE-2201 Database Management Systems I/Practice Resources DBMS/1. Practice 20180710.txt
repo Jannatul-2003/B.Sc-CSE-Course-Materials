@@ -1,0 +1,10 @@
+01. Find the name of the students who have completed not more than 20 credits.
+02. Find the name of the departments where some student named 'Jack' has been registered. 
+03. Find all the departments in 'Packard' building or 'Watson' building.
+04. Find the name of the instructors who get more than 50000 salary.
+05. Find the classroom (building with room number) with capacity at least 20 but no more than 50.
+06. Find all the room numbers used in Spring 2017 as classroom.
+07. Show the courses (title) of Computer Science Department with 3 credits.
+08. Show the department names with budgets when budget is less than $20000. Make sure that the budget will be increased by 20%.
+09. Show the start time of all the time slots in seconds.
+10. Show the semester and year when an instructor with id '15151' has taken classes in any sections.

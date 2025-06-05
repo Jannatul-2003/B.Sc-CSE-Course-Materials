@@ -1,0 +1,5 @@
+01. Find the names of the students who are adviced by some instructor with more than 50000 salary.
+02. Find the start minutes and end seconds of the time slots in which there are some classes having at least 50 capacity.
+03. Show a list of courses which are taught by some instructors from Physics department in Spring 2008.
+04. List a pair of courses where the courses of a pair have equal credits.
+05. Show a list of student and instructor pairs where the student of a pair has taken a course of the instructor and achived a grade 'A'.

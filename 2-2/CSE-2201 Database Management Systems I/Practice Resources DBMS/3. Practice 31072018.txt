@@ -1,0 +1,4 @@
+1. Find the students who have taken not more than 2 courses. output: (Student names, Number of taken courses)
+2. Find the instructors who have never taken any courses. output: (Name of instructors)
+3. Suppose there is a scheme that each department will get some compensation on budget. Condition is, department will get 20% compensation if the number of instructor is odd. Otherwise it will get 15% as compensation. Show a list of department with the compensation amount. output: (Name of department, amount of compensation)
+4. Show a list of 3 credit courses that have been assigned any room with a capacity of at least 50 twice. output: (Course title) 

@@ -1,0 +1,8 @@
+1. Show a list of instructors and students where the instructor is advisor and course teacher for the student. 
+2. Show a list of departments where all the classrooms of the sections for the department is in same building.
+3. Find the courses those were offered in Spring 2008 but not in Summer 2009.
+4. Show a list of Top 5 students according to cumulative grade point average (CGPA).
+Here, The grade point for different grade is given below:
+A+:4.00, A:3.75, A-:3.50, B+:3.25, B:3.00, B-:2.75, C+:2.50, C:2.25, C-:2.00, D:1.00, F:0.00
+5. Find the courses those were offered in Spring 2008 or in Summer 2009. But the courses are not allowed to offer both in Spring 2008 and Summer 2009. 
+
